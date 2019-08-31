@@ -1,0 +1,71 @@
+
+
+.ui.header {
+  color: #fff;
+  margin-bottom: 0;
+  text-align: center;
+}
+.ui.header{
+  text-align: center;
+}
+.ui.desc {
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 2em;
+  text-align: center;
+}
+.ui.desc a {
+  color: blueviolet;
+}
+.ui.desc a:hover {
+  color: white;
+  padding: 3px;
+  background: blueviolet;
+}
+.ui input[type="file"] {
+    display: none;
+    text-align: center;
+    cursor: pointer;
+}
+.ui custom-file-upload{
+  text-align: center;
+  cursor: pointer;
+}
+.ui center{
+  cursor: pointer;
+}
+.ui.container {
+  padding: 2em 0;
+}
+.ui.card {
+  width: 100%;
+}
+.ui.content-result {
+  min-height: 330px;
+}
+.ui.result .placeholder {
+  padding-top: 100px;
+  font-size: 30px;
+  line-height: 1;
+  color: gray;
+  text-align: center;
+}
+.ui.result .placeholder span {
+  font-size: 15px;
+}
+.ui.result .status {
+  margin-top: 5px;
+}
+.ui.result progress {
+  width: 100%;
+}
+.ui.result .ui.message {
+  margin-top: 2rem;
+}
+.ui.result .ui.message pre {
+  white-space: pre-wrap;
+}
+.ui.footer{
+  text-align: center;
+  padding: 5px;
+}
